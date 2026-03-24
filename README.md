@@ -56,3 +56,23 @@
  ### Dataset 
      #### teny_malagasy.org
      ### Hugging Face - Wikimedia/Wikipedia
+
+## EVOLUTION :
+#### model autocompletion
+Bien que le moteur d'IA pour l'autocomplétion soit techniquement finalisé, son intégration complète a été reportée à la prochaine phase pour garantir la stabilité de l'application :
+
+État du Modèle : Le modèle d'autocomplétion basé sur DistilGPT2 et le corpus Wikipedia Malagasy est entièrement entraîné et fonctionnel en environnement de test local.
+
+Performance Linguistique : Il est capable de prédire avec précision les trois mots suivants, capturant les nuances de la syntaxe malgache.
+
+Décision de Gestion : Nous avons choisi de prioriser la fluidité des modules de traduction et d'analyse de sentiment pour respecter les délais de livraison officiels.
+
+Optimisation Future : Une phase de quantification (réduction du poids du modèle) est prévue pour faciliter son déploiement sur des serveurs à ressources limitées.
+
+Objectif Prochain : Activation de l'endpoint /autocomplete dans le backend FastAPI pour une liaison directe avec l'interface Next.js.
+
+#### Synthese vocal 
+-amelioration de l'accent
+
+#### Reconnaissance d'entite
+-integration de "fiteni-paritra"
