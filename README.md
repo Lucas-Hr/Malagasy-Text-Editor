@@ -1,3 +1,5 @@
+## LIEN DE DEMONSTRATION : https://malagasy-text-editor.vercel.app
+
 ## Les MEMBRES DU GROOUPE:
 ### RAZAIARIMIHAJASOA Tsantaniony Fankasitrahana       ESIIA     numero 11
 ### RANDRIAMIARISOA Henintsoa Lucas                    ESIIA     numero 17
@@ -41,7 +43,8 @@
  Aide le rédacteur à adapter son ton en fonction de l'objectif de son message.
 
   ### Autocomplétion Prédictive (Next Word Prediction)
-    #### Description : Suggère les trois mots les plus probables pour la suite de la phrase en temps réel.
+    #### Description: 
+    Suggère les trois mots les plus probables pour la suite de la phrase en temps réel.
 
    #### Technologie : 
    Basée sur le modèle DistilGPT2, un réseau de neurones de type Transformer entraîné sur le corpus Wikipedia Malagasy.
