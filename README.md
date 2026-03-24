@@ -54,8 +54,8 @@
 
 ## BIBLIOGRAPHIE
  ### Dataset 
-     #### teny_malagasy.org
-     ### Hugging Face - Wikimedia/Wikipedia
+      teny_malagasy.org
+      Hugging Face - Wikimedia/Wikipedia
 
 ## EVOLUTION :
 #### model autocompletion
