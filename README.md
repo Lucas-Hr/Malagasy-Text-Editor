@@ -43,7 +43,7 @@
  Aide le rédacteur à adapter son ton en fonction de l'objectif de son message.
 
   ### Autocomplétion Prédictive (Next Word Prediction)
-    #### Description: 
+  #### Description
     Suggère les trois mots les plus probables pour la suite de la phrase en temps réel.
 
    #### Technologie : 
