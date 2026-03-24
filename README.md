@@ -1,26 +1,26 @@
-## Les membres du groupe:
+## Les MEMBRES DU GROOUPE:
 ### RAZAIARIMIHAJASOA Tsantaniony Fankasitrahana       ESIIA     numero 11
 ### RANDRIAMIARISOA Henintsoa Lucas                    ESIIA     numero 17
-  #### Rôles: Recherche et analyse des racines (fototeny) malgaches et de leurs dérivés pour une lemmatisation précise. Classification automatique de la tonalité des textes (Positif/Négatif) adaptée aux spécificités linguistiques locales
+  ###### Rôles: Recherche et analyse des racines (fototeny) malgaches et de leurs dérivés pour une lemmatisation précise. Classification automatique de la tonalité des textes (Positif/Négatif) adaptée aux spécificités linguistiques locales
 
 
 ### RAKOTOHARIMALALA Ny Hasina Sedera                  ESIIA      numero 24
 ### RASOLONJATOVO Soatina Andrianina                   IMTICIA    numero 08
-  ### Rôles: Analyse morphologique permettant de réduire les mots dérivés à leur racine commune (fototeny) pour optimiser la recherche et la traduction. Module de conversion de texte en parole permettant une lecture audio fluide des phrases rédigées en malgache
+  ###### Rôles: Analyse morphologique permettant de réduire les mots dérivés à leur racine commune (fototeny) pour optimiser la recherche et la traduction. Module de conversion de texte en parole permettant une lecture audio fluide des phrases rédigées en malgache
 
 
 ### RABEANTOANDRO Mirantsoa Adrianna                   ESIIA      numero 08
-   ### Rôles :Création d'un serveur performant capable de centraliser les modules d'IA (Autocomplétion, Traduction, Sentiment) et de répondre aux requêtes du Frontend. Mise en place d'un pipeline d'automatisation pour le déploiement du projet (sur Hugging Face Spaces ou serveur local.
+   ###### Rôles :Création d'un serveur performant capable de centraliser les modules d'IA (Autocomplétion, Traduction, Sentiment) et de répondre aux requêtes du Frontend. Mise en place d'un pipeline d'automatisation pour le déploiement du projet (sur Hugging Face Spaces ou serveur local.
 
 ### RAKOTOMALALA Nirinifitiavana Sarobidy              ESIIA      numero 21
-  ### Rôles : Extraction du corpus Wikipedia Malagasy (via Hugging Face Datasets. Nettoyage approfondi. Sélection du modèle DistilGPT2 pour son équilibre entre performance linguistique et légèreté. Entraînement par transfert (Fine-tuning) sur le corpus malgache pour capturer les nu
+  ###### Rôles : Extraction du corpus Wikipedia Malagasy (via Hugging Face Datasets. Nettoyage approfondi. Sélection du modèle DistilGPT2 pour son équilibre entre performance linguistique et légèreté. Entraînement par transfert (Fine-tuning) sur le corpus malgache pour capturer les nu
 
 
-## Documentation Technique
+## DOCUMENTATION TECHNIQUE
   ### Dataset 
      #### [teny_malagasy.org](https://fr.scribd.com/document/687960505/04-Lesona-Malagasy-3eme-Sujets-Types-Corriges)
 
-## Liste et breve description des fonctionnalite IA 
+## LISTE ET BREVE DESCRIPTION DES FONCTIONNALITES IA 
   ### Module de Lemmatisation
    #### Description :
   Analyse la structure des mots malgaches pour extraire leur racine (Lema) en supprimant les affixes (préfixes, suffixes, infixes).
@@ -49,7 +49,7 @@
   #### Avantage : 
   Accélère la saisie et aide à respecter la structure grammaticale de la langue
 
-## Bibliographie
+## BIBLIOGRAPHIE
  ### Dataset 
      #### teny_malagasy.org
      ### Hugging Face - Wikimedia/Wikipedia
