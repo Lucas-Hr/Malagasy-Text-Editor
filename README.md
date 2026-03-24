@@ -1,6 +1,8 @@
 ## LIEN DE DEMONSTRATION : https://malagasy-text-editor.vercel.app
 
-## LES MEMBRES DU GROOUPE:
+## LIEN DRIVE CONTENANT LA VIDEO DE PRESENTATION : https://drive.google.com/file/d/17Wzxvi7tXJM-W2hj65pg-CXwHOO6YHT1/view?usp=sharing
+
+## LES MEMBRES DU GROUPE:
 ### RAZAIARIMIHAJASOA Tsantaniony Fankasitrahana       ESIIA     numero 11
 ### RANDRIAMIARISOA Henintsoa Lucas                    ESIIA     numero 17
   ###### Rôles: Recherche et analyse des racines (fototeny) malgaches et de leurs dérivés pour une lemmatisation précise. Classification automatique de la tonalité des textes (Positif/Négatif) adaptée aux spécificités linguistiques locales
